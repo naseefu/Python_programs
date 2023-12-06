@@ -1,0 +1,29 @@
+Fibonacci Numbers: Calculate the nth Fibonacci number using both recursive and dynamic programming approaches.
+
+Coin Change Problem: Given a set of coins and a target amount, find the minimum number of coins needed to make up the target amount.
+
+Longest Common Subsequence (LCS): Find the length of the longest common subsequence between two strings.
+
+Knapsack Problem: Given a set of items with weights and values, determine the maximum value that can be obtained by selecting a subset of items that fit into a knapsack of limited capacity.
+
+Longest Increasing Subsequence (LIS): Find the length of the longest increasing subsequence in an array.
+
+Edit Distance (Levenshtein Distance): Find the minimum number of operations (insertion, deletion, substitution) required to transform one string into another.
+
+Maximum Subarray Sum: Find the maximum sum of a subarray in an array of integers.
+
+Matrix Chain Multiplication: Given a sequence of matrices, determine the optimal order of multiplication to minimize the total number of scalar multiplications.
+
+Counting Paths in a Grid: Count the number of unique paths from the top-left corner to the bottom-right corner of a grid, moving only right or down.
+
+0/1 Knapsack Problem with Multiple Constraints: Extend the classic knapsack problem to include multiple constraints (weight and volume, for example).
+
+Palindrome Partitioning: Find the minimum number of cuts needed to partition a string into palindromic substrings.
+
+Unique Paths in a Grid: Count the number of unique paths from the top-left corner to the bottom-right corner of a grid, moving only right or down, while avoiding obstacles.
+
+Subset Sum Problem: Determine if there exists a subset of a given array with a specific sum.
+
+Word Break Problem: Given a string and a dictionary of words, determine if the string can be segmented into a space-separated sequence of dictionary words.
+
+Maximal Square: Find the side length of the largest square containing only 1s in a binary matrix.
